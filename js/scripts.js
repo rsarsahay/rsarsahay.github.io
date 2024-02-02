@@ -3,7 +3,7 @@
     Version: 1
     Last Change: 2/2/2024
     Author: Kumari Ritu Sarsahay
-    Repo: 
+    Repo: https://github.com/rsarsahay/rsarsahay.github.io
 
     Description: This file contains all the scripts associated with the single-page
     portfolio website.
